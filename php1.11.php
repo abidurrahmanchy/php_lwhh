@@ -6,3 +6,5 @@ echo $output;
 echo"\n";
 echo strtoupper($output);
 ?>
+echo strtoupper ($output);
+?>
