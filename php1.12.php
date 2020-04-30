@@ -53,10 +53,3 @@ $food2 ="apple";
 if ($food2 == "apple"){
     echo " apple has vitamin A";
 }
-?>
-
-
-
-
-
-
