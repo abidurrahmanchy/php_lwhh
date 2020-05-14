@@ -1,14 +1,14 @@
 <?php
-$string ="37man";
+$string ="8ball";
 switch( $string){ 
-	case(string) "38mans"://string not add: coed running result 37
-	echo "thirty-eight man";
+	case(string) "9ball"://string not add: coed running result 8
+	echo "Nine ball";
 	break;
-	case(string) 37://string not add. coed running result: 37
-	echo"37";
+	case(string) 8://string not add. coed running result: 8
+	echo"8";
 	break;
-	case (string) "37mans"://string not add: coed running result 37
-	echo "thirty-seven mans";
+	case (string) "8ball"://string not add: coed running result: 8
+	echo "Eight ball";
 	break;
 
 }
