@@ -6,7 +6,6 @@ $new =1;
 for ( $i = 0; $i<10; $i++){
 	echo $veryold." ";
 	$old = $new;
-	echo"\n.</br>";
 	$new = $old + $veryold;
 	$veryold = $old;
 
