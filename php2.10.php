@@ -7,7 +7,7 @@ function factorial ($string){
 
 }
 echo factorial(9);
-echo"\n <\br>";
+echo"\n<\br>";
 echo factorial(11);
 ?>
 
